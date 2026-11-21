@@ -1,0 +1,23 @@
+# Allowlist: only code, notes and face-free figures are tracked.
+# UBFC-rPPG videos, generated faces and source photos are never committed (dataset licence).
+/*
+!/.gitignore
+!/README.md
+!/requirements.txt
+!/rppg_demo.py
+!/download_ubfc.py
+!/pilot/
+/pilot/*
+!/pilot/*.py
+!/pilot/RESULTS.md
+!/pilot/liveportrait_pilot.ipynb
+/pilot/build_oulu_deck.py
+/pilot/charts_oulu.py
+!/pilot/output/
+/pilot/output/*
+!/pilot/output/batch_results.csv
+!/pilot/output/swap_results.csv
+!/pilot/output/batch_snr.png
+!/pilot/output/swap_snr.png
+!/pilot/output/pulse_real_vs_generated.png
+__pycache__/

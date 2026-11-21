@@ -1,0 +1,6 @@
+target,face_from,windows,hr_err_real,hr_err_swapped,snr_real_db,snr_swapped_db,snr_liveportrait_db,r_real,r_swapped,hr_err_vs_donor,r_vs_donor
+subject1,subject3,2,0.38,0.0,5.59,1.11,-10.6,0.84,0.73,4.12,0.43
+subject3,subject4,2,1.5,0.75,0.75,0.58,-11.95,0.74,0.75,13.88,0.27
+subject4,subject5,3,0.5,0.25,0.49,0.55,-10.2,0.79,0.77,13.88,0.3
+subject5,subject8,2,0.0,0.38,5.31,4.67,-11.44,0.84,0.8,13.12,0.26
+subject8,subject1,3,0.5,0.5,4.33,2.6,-10.24,0.85,0.83,10.13,0.41

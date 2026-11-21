@@ -1,0 +1,5 @@
+numpy
+scipy
+opencv-python<5
+gdown
+imageio-ffmpeg
